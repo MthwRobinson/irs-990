@@ -1,3 +1,7 @@
+# Data files
+master_file/
+index_file/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
